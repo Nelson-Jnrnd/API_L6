@@ -1,0 +1,18 @@
+{
+  "name": "musician",
+  "version": "1.0.0",
+  "description": "simulates someone who lplays an instrument in an orchestra. When the app is started, it is assigned an instrument. As long as it is running, every second it will emit a sound depending on the instrument",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Nelson-Jnrnd/API-2021-UDP-Orchestra"
+  },
+  "author": "Nelson Jeanrenaud, Damien Maier",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "auditor",
+  "version": "1.0.0",
+  "description": "simulates someone who listens to the orchestra. Keep tracks of active musician (if it played a sound during the last 5 seconds) and provides a list of those musicican via a JSON payload sent after a TCP connection on port 2205",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Nelson-Jnrnd/API-2021-UDP-Orchestra"
+  },
+  "author": "Nelson Jeanrenaud, Damien Maier",
+  "license": "ISC"
+}
